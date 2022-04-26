@@ -4,7 +4,7 @@
 - 👀 Estou interessado em aprender novas linguagens de programação
 - Estou aprendendo a programação a linguagem JavaScript e Scratch
 
-## Informações Profissionais 
+## INFORMAÇÕES PROFISSIONAIS
 - Em montagem
 
 ### Trabalhos da Escola (Brasilio, Rodolpho e Marli)
