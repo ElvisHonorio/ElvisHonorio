@@ -1,12 +1,12 @@
-# Informações Pessoais
+# INFORMAÇÕES PESSOAIS
 - 👋 Olá, meu nome é Elvis Honorio
 - 👀 estou interessado em conteudos de inicio de programação
-- finalizei o curso de programação em JavaScript e Scratch
+- Finalizei o curso de programação em JavaScript e Scratch
 
-## Informações profissionais 
+## Informações Profissionais 
 - Em montagem
 
-### Trabalhos da escola
+### Trabalhos da Escola (Brasilio, Rodolpho e Marli)
 - Em processo
 <!---
 ElvisHonorio/ElvisHonorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
